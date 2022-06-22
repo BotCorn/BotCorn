@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working in school
 - 🌱 I’m currently learning Discord.js
 - 💬 Ask me about gifflar
-- 📫 How to reach me: Buddicorn#1098
+- 📫 How to reach me: Buddicorn#1098 on discord
 - ⚡ Fun fact: I like brooms
 -->
