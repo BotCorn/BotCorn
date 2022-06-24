@@ -1,1 +1,13 @@
-![Metrics](https://metrics.lecoq.io/BotCorn?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FCopenhagen)
+# Hi there 👋 
+
+<!--
+BotCorn/BotCorn is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working in school
+- 🌱 I’m currently learning Discord.js
+- 💬 Ask me about gifflar
+- 📫 How to reach me: Buddicorn#1098 on discord
+- ⚡ Fun fact: I like brooms
+-->
