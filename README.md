@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about gifflar
 - 📫 How to reach me: Buddicorn#1098 on discord
 - ⚡ Fun fact: I like brooms
--->
